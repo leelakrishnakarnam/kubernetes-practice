@@ -1,4 +1,4 @@
-install hyperhit and minikube
+install hyperhit and minikub
 brew update
 brew install hyperkit
 brew install minikube
